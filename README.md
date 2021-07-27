@@ -1,2 +1,2 @@
-# Makine Ogrenmesi ile Projeler
- Python ile Makine Öğrenmesi algoritmalarıyla farklı türde projeler
+# Machine Learning Projects
+ In these projects I used Python with the jupyter notebook 
